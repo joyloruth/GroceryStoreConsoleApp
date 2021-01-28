@@ -18,7 +18,7 @@ namespace FoodStore.StoreUI
             Console.WriteLine("                                                                         ");
             Console.WriteLine("       +================================================================+");
             Console.WriteLine("       |                                                                |");
-            Console.WriteLine("       |             WELCOME TO JOY LORUTH'S GROCERY STORE              |");
+            Console.WriteLine("       |            Welcome to 'Couch Potato Cart' Grocery Store        |");
             Console.WriteLine("       |                                                                |");
             Console.WriteLine("       +================================================================+");
             Console.WriteLine("       +----------------------------------------------------------------+");
