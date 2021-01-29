@@ -20,13 +20,13 @@ namespace FoodStore.StoreUI
             Console.WriteLine("       |                                                                |");
             Console.WriteLine("       +================================================================+");
             Console.WriteLine("       +----------------------------------------------------------------+");
-            Console.WriteLine("       |                    [1] VIEW ORDERS MENU                        |");
+            Console.WriteLine("       |                    [1] VIEW ORDERS HISTORY                     |");
             Console.WriteLine("       +----------------------------------------------------------------+");
             Console.WriteLine("       +----------------------------------------------------------------+");
             Console.WriteLine("       |                    [2] ADD AN ORDER                            |");
             Console.WriteLine("       +----------------------------------------------------------------+");
             Console.WriteLine("       +----------------------------------------------------------------+");
-            Console.WriteLine("       |                    [3] VIEW ORDERS HISTORY                     |");
+            Console.WriteLine("       |                    [3]                                         |");
             Console.WriteLine("       +----------------------------------------------------------------+");
             Console.WriteLine("       +----------------------------------------------------------------+");
             Console.WriteLine("       |                    [4] DELETE AN ORDER                         |");
